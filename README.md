@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Adams Samson
 
 🔐 **Cybersecurity Analyst** | 🧠 **AI Explorer** | 🛡️ **Digital Defender**  

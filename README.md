@@ -6,7 +6,7 @@
 Google Certified in Cybersecurity | 8+ years protecting digital landscapes
 
 As a dedicated digital defender, I specialize in cybersecurity strategies that proactively 
-safeguard systems and enhance operational resilience. With a sharp eye on emerging technologies—including
+safeguard systems and enhance operational resilience. With a sharp eye on emerging technologies, including
 AI integration and API security. I convert complex threat scenarios into actionable solutions that drive
 compliance, reduce risk, and fortify digital infrastructure.
 

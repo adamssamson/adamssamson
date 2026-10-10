@@ -25,7 +25,7 @@ $$\text{Identify} \longrightarrow \text{Diagnose} \longrightarrow \text{Resolve}
 ###  Tech Stack & Tools
 
 ```box
-● Operating Systems  : Windows 10/11, Windows Server, macOS, Linux
+● Operating Systems  : Windows 10/11, Windows Server
 ● Directory Services : Microsoft Entra ID, On-Premises Active Directory, Google Admin
 ● Ticketing Platforms: ServiceNow, Jira Service Desk
 ● Network Utilities  : TCP/IP, DNS, DHCP, VPN, Wireshark

@@ -1,7 +1,7 @@
 # Hi there, I'm Adams Samson!  
 ### **Remote IT Support & Cloud Identity Engineer**
 
-I am a structured, security-focused IT professional specializing in modern cloud directory administration, enterprise helpdesk systems, and distributed infrastructure support. With a foundational background in cybersecurity, I approach systems administration with a zero-trust mindset—ensuring that user lifecycles, remote sessions, and identity permissions are implemented seamlessly and securely.
+I am a structured, security-focused IT professional specializing in modern cloud directory administration, enterprise helpdesk systems, and distributed infrastructure support. With a foundational background in cybersecurity, I approach systems administration with a zero-trust mindset ensuring that user lifecycles, remote sessions, and identity permissions are implemented seamlessly and securely.
 
 ---
 
